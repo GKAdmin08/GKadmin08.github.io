@@ -7,6 +7,7 @@
 </head>
 <body>
 <a href="https://gkadmin08.github.io/Testetikett.pdf">Download</a>
+ <a href="https://gkadmin08.github.io/Testetikett.pdf">Download</a>
 <br>
 <br>
 <br>
