@@ -10,7 +10,7 @@
 <br>
 <br>
 <br>
-<iframe src="gkadmin08.github.io/Testetikett.pdf" width="100% height=100%">
+<iframe src="https://gkadmin08.github.io/Testetikett.pdf" width="100% height=100%">
 </iframe>
 </body>
 </html>
