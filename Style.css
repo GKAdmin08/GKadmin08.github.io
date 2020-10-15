@@ -1,11 +1,11 @@
 .mediaViewInfo {
-	--web-view-name: iPhone X/XS – 1;
-	--web-view-id: iPhone_X_XS___1;
+	--web-view-name: Index;
+	--web-view-id: Index;
 	--web-scale-on-resize: true;
 	--web-enable-deep-linking: true;
 }
 :root {
-	--web-view-ids: iPhone_X_XS___1;
+	--web-view-ids: Index;
 }
 * {
 	margin: 0;
@@ -13,21 +13,21 @@
 	box-sizing: border-box;
 	border: none;
 }
-#iPhone_X_XS___1 {
+#Index {
 	position: absolute;
-	width: 400px;
+	width: 420px;
 	height: 812px;
 	background-color: rgba(6,6,6,1);
 	overflow: hidden;
-	--web-view-name: iPhone X/XS – 1;
-	--web-view-id: iPhone_X_XS___1;
+	--web-view-name: Index;
+	--web-view-id: Index;
 	--web-scale-on-resize: true;
 	--web-enable-deep-linking: true;
 }
 #imageonline_co_transparentimag {
 	position: absolute;
-	width: 151px;
-	height: 92px;
+	width: 178px;
+	height: 109px;
 	left: 0px;
 	top: 0px;
 	overflow: visible;
@@ -40,31 +40,49 @@
 	top: 176px;
 	overflow: visible;
 }
+.Path_1 {
+	overflow: visible;
+	position: absolute;
+	width: 255px;
+	height: 41px;
+	left: -14px;
+	top: 457px;
+	transform: matrix(1,0,0,1,0,0);
+}
 #H_mta_Kampanjeblad {
 	position: absolute;
-	left: 24px;
-	top: 427px;
+	left: 12px;
+	top: 461px;
 	overflow: visible;
-	width: 354px;
-	height: 66px;
+	width: 199px;
+	height: 34px;
 	text-align: left;
 	font-family: Segoe UI;
 	font-style: normal;
-	font-weight: normal;
+	font-weight: bold;
 	font-size: 20px;
-	color: rgba(112,112,112,1);
+	color: rgba(249,246,246,1);
 }
-#Avregistrera_f_r_Kampanj {
-	position: absolute;
-	left: 138px;
-	top: 721px;
+.Path_2 {
 	overflow: visible;
-	width: 335.067px;
-	height: 66px;
+	position: absolute;
+	width: 289.799px;
+	height: 42.793px;
+	left: 143.067px;
+	top: 676px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Avregistrera_dig {
+	position: absolute;
+	left: 210px;
+	top: 680px;
+	overflow: visible;
+	width: 199px;
+	height: 34px;
 	text-align: left;
 	font-family: Segoe UI;
 	font-style: normal;
-	font-weight: normal;
+	font-weight: bold;
 	font-size: 20px;
-	color: rgba(112,112,112,1);
+	color: rgba(249,246,246,1);
 }
