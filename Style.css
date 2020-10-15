@@ -1,0 +1,70 @@
+.mediaViewInfo {
+	--web-view-name: iPhone X/XS – 1;
+	--web-view-id: iPhone_X_XS___1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: iPhone_X_XS___1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#iPhone_X_XS___1 {
+	position: absolute;
+	width: 375px;
+	height: 812px;
+	background-color: rgba(6,6,6,1);
+	overflow: hidden;
+	--web-view-name: iPhone X/XS – 1;
+	--web-view-id: iPhone_X_XS___1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#imageonline_co_transparentimag {
+	position: absolute;
+	width: 151px;
+	height: 92px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Gr_nsaker {
+	position: absolute;
+	width: 488px;
+	height: 241px;
+	left: 15px;
+	top: 176px;
+	overflow: visible;
+}
+#H_mta_Kampanjeblad {
+	position: absolute;
+	left: 24px;
+	top: 427px;
+	overflow: visible;
+	width: 329px;
+	height: 66px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#Avregistrera_f_r_Kampanj {
+	position: absolute;
+	left: 138px;
+	top: 721px;
+	overflow: visible;
+	width: 329px;
+	height: 66px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
