@@ -15,7 +15,7 @@
 }
 #iPhone_X_XS___1 {
 	position: absolute;
-	width: 375px;
+	width: 400px;
 	height: 812px;
 	background-color: rgba(6,6,6,1);
 	overflow: hidden;
@@ -36,7 +36,7 @@
 	position: absolute;
 	width: 488px;
 	height: 241px;
-	left: 15px;
+	left: 24px;
 	top: 176px;
 	overflow: visible;
 }
@@ -45,7 +45,7 @@
 	left: 24px;
 	top: 427px;
 	overflow: visible;
-	width: 329px;
+	width: 354px;
 	height: 66px;
 	text-align: left;
 	font-family: Segoe UI;
@@ -59,7 +59,7 @@
 	left: 138px;
 	top: 721px;
 	overflow: visible;
-	width: 329px;
+	width: 335.067px;
 	height: 66px;
 	text-align: left;
 	font-family: Segoe UI;
